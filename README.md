@@ -1,2 +1,2 @@
-# fixa-o-git-github
+# fixacao-git-github
 Repositório criado para fixar o passo a passo de conectar o git e github
